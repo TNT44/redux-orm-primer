@@ -1,5 +1,10 @@
 # Creating a Simple App with Redux-ORM
 
+Move to latest 
+* React 
+* Redux
+* redux-orm
+
 This article shows you how to create and test a simple todo application with some related data using [Redux-ORM](https://github.com/tommikaikkonen/redux-orm). I'll assume you're already familiar with Redux and React. The source for the app is in this repository and you can play around with the [live demo here](http://tommikaikkonen.github.io/redux-orm-primer).
 
 ![Screenshot of the Example App](https://raw.githubusercontent.com/tommikaikkonen/redux-orm-primer/master/screenshot.png)
