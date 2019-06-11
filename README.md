@@ -1,9 +1,24 @@
 # Creating a Simple App with Redux-ORM
 
 Move to latest 
-* React 
-* Redux
-* redux-orm
+* "react": "^16.8.6",
+* "react-bootstrap": "^1.0.0-beta.5",
+* "react-datepicker": "^2.5.0",
+* "react-datetime": "^2.16.3",
+    "react-dom": "^16.8.6",
+    "react-jsonschema-form": "^1.2.1",
+    "react-pure-render": "^1.0.2",
+    "react-redux": "^6.0.1",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "^3.0.1",
+    "redux": "^4.0.1",
+    "redux-diff-logger": "0.0.6",
+    "redux-logger": "^2.4.0",
+    "redux-orm": "0.13.3",
+    "redux-orm-proptypes": "^0.1.0",
+    "redux-thunk": "^2.3.0",
+    "reselect": "^2.0.1"
 
 This article shows you how to create and test a simple todo application with some related data using [Redux-ORM](https://github.com/tommikaikkonen/redux-orm). I'll assume you're already familiar with Redux and React. The source for the app is in this repository and you can play around with the [live demo here](http://tommikaikkonen.github.io/redux-orm-primer).
 
